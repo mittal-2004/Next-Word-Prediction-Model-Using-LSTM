@@ -2,7 +2,8 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Next+Word+Prediction+using+LSTM;Deep+Learning+%7C+NLP+%7C+TensorFlow" alt="Typing SVG" />
-<img width="1062" height="672" alt="image" src="https://github.com/user-attachments/assets/13277f43-a17f-4cc6-8fbb-f92d72ea1f0c" />
+<img width="1202" height="695" alt="image" src="https://github.com/user-attachments/assets/b23bcdf1-0f1b-480f-a0c4-aa8d9d9faaa7" />
+
 
 <br/>
 
